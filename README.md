@@ -143,7 +143,7 @@
 
 #### **In progress. Will be updated when the UIUC Fall 2022 and Spring 2023 grades are released.**
 
-| **Cumulative GPA** | **3.61** | **30.00** |
+| **Cumulative GPA** | **3.61** | **30.0** |
 
 ---
 
