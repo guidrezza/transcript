@@ -133,10 +133,10 @@
 
 | Class | Grade | Credit Hours |
 | -------------------------------------- | ----------- | ---- |
-| CS 222 Software Design Lab | In Progress | 1.000
-| CS 341 System Programming | In Progress | 4.000
-| CS 421 Progrmg Languages & Compilers | In Progress | 3.000
-| STAT 448 Advanced Data Analysis | In Progress | 4.000
+| CS 222 Software Design Lab | In Progress | 1.0 |
+| CS 341 System Programming | In Progress | 4.0 |
+| CS 421 Progrmg Languages & Compilers | In Progress | 3.0 |
+| STAT 448 Advanced Data Analysis | In Progress | 4.0 |
 | **GPA** | **In Progress** | **12.0** |
 
 ### Final UIUC Transcript GPA
