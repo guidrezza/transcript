@@ -74,7 +74,7 @@
 | PHY-121 General Physics I | A | 5.0 |
 | **GPA** | **4.0** | **12.0** |
 
-#### ** class retaken, took first in Spring 2020 (B)
+#### ** class retaken
 
 ### Final Parkland Transcript GPA
 #### **GPA's calculated by Parkland College. A recalculation by UIUC is listed on the next section.**
