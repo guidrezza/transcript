@@ -2,6 +2,8 @@
 
 #### A list of classes I have taken in College/University, along with the grades I got.
 
+#### Assignments and codes I wrote for the courses below are in a private repository, for academic integrity reasons.
+
 ---
 
 ### AP Exams
