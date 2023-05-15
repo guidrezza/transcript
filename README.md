@@ -37,7 +37,7 @@
 | Class | Grade | Credit Hours |
 | -------------------------------------- | ----- | ---- |
 | [CSC-123 Computer Sci I](https://selfserv.parkland.edu/Student/Courses/Search?keyword=CSC-123) (C/C++) | A | 4.0 |
-| [FYE-101 Strategies for College Success]([https://selfserv.parkland.edu/Student/Courses/Search?keyword=FYE-101)) | A | 1.0 |
+| [FYE-101 Strategies for College Success]([https://selfserv.parkland.edu/Student/Courses/Search?keyword=FYE-101) | A | 1.0 |
 | [HIS-108 World History I](https://selfserv.parkland.edu/Student/Courses/Search?keyword=HIS-108) | A | 4.0 |
 | [MAT-108 Intro/Applied Statistics](https://selfserv.parkland.edu/Student/Courses/Search?keyword=MAT-108) | A | 3.0 |
 | [SOC-203 Diversity and Society](https://selfserv.parkland.edu/Student/Courses/Search?keyword=SOC-203) | A | 3.0 |
