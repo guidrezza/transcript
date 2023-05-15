@@ -91,52 +91,41 @@
 
 | Class | Grade | Credit Hours |
 | --------------------------------------- | ----- | ---- |
-| CS 128 Intro to Computer Science II | A | 3.0 |
-| MATH 257 Linear Algebra w Computat Appl | B+ | 3.0 |
-| STAT 107 Data Science Discovery | A+ | 4.0 |
-| STAT 400 Statistics and Probability I | B+ | 4.0 |
+| [CS 128 Intro to Computer Science II](https://cs.illinois.edu/academics/courses/CS128) | A | 3.0 |
+| [MATH 257 Linear Algebra w Computat Appl](https://netmath.illinois.edu/summer/math-257) | B+ | 3.0 |
+| [STAT 107 Data Science Discovery](http://catalog.illinois.edu/courses-of-instruction/stat/) | A+ | 4.0 |
+| [STAT 400 Statistics and Probability I](http://catalog.illinois.edu/courses-of-instruction/stat/) | B+ | 4.0 |
 | **GPA** | **3.66** | **14.0** |
 
 ### Spring 2022
 
 | Class | Grade | Credit Hours |
 | -------------------------------------- | ----- | ---- |
-| CS 233 Computer Architecture | A | 4.0 |
-| CS 357 Numerical Methods I | A | 3.0 |
-| PSYC 201 Intro to Social Psych | A- | 3.0 |
-| STAT 410 Statistics and Probability II | B- | 3.0 |
-| STAT 425 Statistical Modeling I | B+ | 3.0 |
-| **GPA** | **3.56** | **16.0** |
-
-### Spring 2022
-
-| Class | Grade | Credit Hours |
-| -------------------------------------- | ----- | ---- |
-| CS 233 Computer Architecture | A | 4.0 |
-| CS 357 Numerical Methods I | A | 3.0 |
-| PSYC 201 Intro to Social Psych | A- | 3.0 |
-| STAT 410 Statistics and Probability II | B- | 3.0 |
-| STAT 425 Statistical Modeling I | B+ | 3.0 |
+| [CS 233 Computer Architecture](https://cs.illinois.edu/academics/courses/CS233) | A | 4.0 |
+| [CS 357 Numerical Methods I](https://cs.illinois.edu/academics/courses/CS357) | A | 3.0 |
+| [PSYC 201 Intro to Social Psych](http://catalog.illinois.edu/courses-of-instruction/psyc/) | A- | 3.0 |
+| [STAT 410 Statistics and Probability II](http://catalog.illinois.edu/courses-of-instruction/stat/) | B- | 3.0 |
+| [STAT 425 Statistical Modeling I](http://catalog.illinois.edu/courses-of-instruction/stat/) | B+ | 3.0 |
 | **GPA** | **3.56** | **16.0** |
 
 ### Fall 2022
 
 | Class | Grade | Credit Hours |
 | ------------------------------------- | ----------- | ---- |
-| BTW 250 Principles Bus Comm | In Progress | 3.0 |
-| CS 374 Intro to Algs & Models of Comp | In Progress | 4.0 |
-| CS 411 Database Systems | In Progress | 3.0 |
-| STAT 426 Statistical Modeling II | In Progress | 3.0 |
+| [BTW 250 Principles Bus Comm](http://catalog.illinois.edu/courses-of-instruction/btw/) | In Progress | 3.0 |
+| [CS 374 Intro to Algs & Models of Comp](https://cs.illinois.edu/academics/courses/CS374) | In Progress | 4.0 |
+| [CS 411 Database Systems](https://cs.illinois.edu/academics/courses/CS411) | In Progress | 3.0 |
+| [STAT 426 Statistical Modeling II](http://catalog.illinois.edu/courses-of-instruction/stat/) | In Progress | 3.0 |
 | **GPA** | **In Progress** | **13.0** |
 
 ### Spring 2023
 
 | Class | Grade | Credit Hours |
 | -------------------------------------- | ----------- | ---- |
-| CS 222 Software Design Lab | In Progress | 1.0 |
-| CS 341 System Programming | In Progress | 4.0 |
-| CS 421 Progrmg Languages & Compilers | In Progress | 3.0 |
-| STAT 448 Advanced Data Analysis | In Progress | 4.0 |
+| [CS 222 Software Design Lab](https://cs.illinois.edu/academics/courses/CS222) | In Progress | 1.0 |
+| [CS 341 System Programming](https://cs.illinois.edu/academics/courses/CS341) | In Progress | 4.0 |
+| [CS 421 Progrmg Languages & Compilers](https://cs.illinois.edu/academics/courses/CS421) | In Progress | 3.0 |
+| [STAT 448 Advanced Data Analysis](http://catalog.illinois.edu/courses-of-instruction/stat/) | In Progress | 4.0 |
 | **GPA** | **In Progress** | **12.0** |
 
 ### Final UIUC Transcript GPA
