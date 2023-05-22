@@ -114,27 +114,27 @@
 
 | Class | Grade | Credit Hours |
 | ------------------------------------- | ----------- | ---- |
-| [BTW 250 Principles Bus Comm](http://catalog.illinois.edu/courses-of-instruction/btw/) | In Progress | 3.0 |
-| [CS 374 Intro to Algs & Models of Comp](https://cs.illinois.edu/academics/courses/CS374) | In Progress | 4.0 |
-| [CS 411 Database Systems](https://cs.illinois.edu/academics/courses/CS411) | In Progress | 3.0 |
-| [STAT 426 Statistical Modeling II](http://catalog.illinois.edu/courses-of-instruction/stat/) | In Progress | 3.0 |
-| **GPA** | **In Progress** | **13.0** |
+| [BTW 250 Principles Bus Comm](http://catalog.illinois.edu/courses-of-instruction/btw/) | B+ | 3.0 |
+| [CS 374 Intro to Algs & Models of Comp](https://cs.illinois.edu/academics/courses/CS374) | A- | 4.0 |
+| [CS 411 Database Systems](https://cs.illinois.edu/academics/courses/CS411) | A | 3.0 |
+| [STAT 426 Statistical Modeling II](http://catalog.illinois.edu/courses-of-instruction/stat/) | A- | 3.0 |
+| **GPA** | **3.66** | **13.0** |
 
 ### Spring 2023
 
 | Class | Grade | Credit Hours |
 | -------------------------------------- | ----------- | ---- |
-| [CS 222 Software Design Lab](https://cs.illinois.edu/academics/courses/CS222) | In Progress | 1.0 |
-| [CS 341 System Programming](https://cs.illinois.edu/academics/courses/CS341) | In Progress | 4.0 |
-| [CS 421 Progrmg Languages & Compilers](https://cs.illinois.edu/academics/courses/CS421) | In Progress | 3.0 |
-| [STAT 448 Advanced Data Analysis](http://catalog.illinois.edu/courses-of-instruction/stat/) | In Progress | 4.0 |
-| **GPA** | **In Progress** | **12.0** |
+| [CS 222 Software Design Lab](https://cs.illinois.edu/academics/courses/CS222) | A | 1.0 |
+| [CS 341 System Programming](https://cs.illinois.edu/academics/courses/CS341) | A | 4.0 |
+| [CS 421 Progrmg Languages & Compilers](https://cs.illinois.edu/academics/courses/CS421) | A- | 3.0 |
+| [STAT 448 Advanced Data Analysis](http://catalog.illinois.edu/courses-of-instruction/stat/) | A- | 4.0 |
+| **GPA** | **3.80** | **12.0** |
 
 ### Final UIUC Transcript GPA
 
 #### **In progress. Will be updated when the UIUC Fall 2022 and Spring 2023 grades are released.**
 
-| **Cumulative GPA** | **3.61** | **30.0** |
+| **Cumulative GPA** | **3.66** | **30.0** |
 
 ---
 
@@ -142,4 +142,4 @@
 
 #### **In progress. Will be updated when the UIUC Fall 2022 and Spring 2023 grades are released.**
 
-| **Cumulative GPA** | **3.79** | **112.0** |
+| **Cumulative GPA** | **3.77** | **115.0** |
